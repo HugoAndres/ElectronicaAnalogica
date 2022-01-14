@@ -1,0 +1,54 @@
+[PROJECT]
+Target=Proyecto.hex
+Processor_Text=PIC16F886
+CCSVerions=5.059
+Compiler=PCM
+CCSVersion=5.059
+[Target Data]
+FileList=Proyecto.c
+[Directories]
+Include=
+[C:\Users\Fernando\Desktop\proyecto_analogica\Proyecto]
+Type=4
+[mru-list]
+1=Proyecto.c
+
+[ProjectLog]
+Days=1
+D1=29-11-2018
+D1_L=12
+D1_L1=[70824]Project Opened.
+D1_L2=[70950]Started Editing.
+D1_L3=[71251]Stopped Editing.
+D1_L4=[71374]Started Editing.
+D1_L5=[72486]Stopped Editing.
+D1_L6=[72573]Started Editing.
+D1_L7=[73738]Stopped Editing.
+D1_L8=[73945]Started Editing.
+D1_L9=[74571]Stopped Editing.
+D1_L10=[74631]Started Editing.
+D1_L11=[76294]Stopped Editing.
+TotalEdit=62
+TotalDebug=0
+D1_E=62
+D1_D=0
+D1_L12=[76294]Project Closed.
+
+[Opened Files]
+1=Proyecto.c
+t1=25
+Count=4
+2=Proyecto.h
+t2=1
+3=..\..\..\..\Program Files (x86)\PICC\Devices\16F886.h
+t3=109
+4=..\Proyecto EA\Proyecto.c
+t4=25
+[Proyecto.c]
+Type=4
+
+[defines]
+buildcount=39
+[Units]
+Count=1
+1=Proyecto (main)
